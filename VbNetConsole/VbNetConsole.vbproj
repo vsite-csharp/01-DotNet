@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>VbNetConsole</RootNamespace>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>Vsite.CSharp.NetFramework</RootNamespace>
+  </PropertyGroup>
+
+</Project>
