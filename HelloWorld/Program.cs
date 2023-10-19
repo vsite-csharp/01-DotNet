@@ -16,6 +16,7 @@
             Console.WriteLine(d);
             Console.WriteLine(s);
             Console.ReadKey();
+            //promjena
         }
     }
 }
