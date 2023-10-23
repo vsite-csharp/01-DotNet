@@ -17,14 +17,14 @@ namespace Vsite.CSharp.NetFrameWork
             // štoperica
             Stopwatch stopWatch = new Stopwatch();
 
-            // TODO:021 Otkomentirati donjih šest naredbi i uporediti rezultate s prijašnjima
-            //stopWatch.Restart();
-            //stopWatch.Stop();
-            //Console.WriteLine($"Prvo pokretanje/zaustavljanje štoperice: {stopWatch.Elapsed.Ticks}");
+            // 021 Otkomentirati donjih šest naredbi i uporediti rezultate s prijašnjima
+            stopWatch.Restart();
+            stopWatch.Stop();
+            Console.WriteLine($"Prvo pokretanje/zaustavljanje štoperice: {stopWatch.Elapsed.Ticks}");
 
-            //stopWatch.Restart();
-            //stopWatch.Stop();
-            //Console.WriteLine($"Drugo pokretanje/zaustavljanje štoperice: {stopWatch.Elapsed.Ticks}");
+            stopWatch.Restart();
+            stopWatch.Stop();
+            Console.WriteLine($"Drugo pokretanje/zaustavljanje štoperice: {stopWatch.Elapsed.Ticks}");
 
             // prvi poziv metode
             stopWatch.Restart();
